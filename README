@@ -1,0 +1,7 @@
+This project offers an easy to use ActionScript 3.0 wrapper for the Thounds.com API
+
+Thounds AS3 API uses Iotashan's and flaircode OAuth library (source is included) that is used for the authentication.
+
+Thounds AS3 API use the XML return data type. The file is written with Flash Builder 4.
+
+For Thounds API problem use wiki Thounds API page at the address: http://developers.thounds.com/API

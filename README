@@ -7,3 +7,16 @@ Thounds AS3 API use the XML return data type. The file is written with Flash Bui
 For Thounds API problem use wiki Thounds API page at the address: http://developers.thounds.com/API
 
 Use the Thounds interface in order to obtain the wished data.
+
+In Flex project declare a thounds object with the 'consumerKey' and 'consumerSecret' obtains with the registration of the application in Thounds.com web site. With this object make request with the interface's method.
+
+Example:
+
+<fx:Declarations>
+		<!-- Place non-visual elements (e.g., services, value objects) here -->
+		
+		<!-- TODO Enter your Thounds Consumer Key/Secret -->
+		<thounds:Thounds id="thounds" 
+						 consumerKey=" " 
+						 consumerSecret=" " />
+</fx:Declarations>
